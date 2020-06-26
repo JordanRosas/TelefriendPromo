@@ -15,9 +15,6 @@ class NavigationBar extends Component{
                         <li className="nav-item">
                             <Link className="nav-link" style={styles.anchorStyle} to="/about">About</Link>
                         </li>
-                        {/* <li className="nav-item">
-                            <Link className="nav-link" style={styles.anchorStyle}  to="/specs">Plans</Link>
-                        </li> */}
                         <li className="nav-item">
                             <Link className="nav-link" style={styles.anchorStyle}  to="/contact">Contact Us</Link>
                         </li>

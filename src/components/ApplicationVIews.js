@@ -18,15 +18,15 @@ export default class ApplicationViews extends Component {
                 {/* <Route exact path="/auth" render={(props) => {
                     return <LoginScreen />
                 }} /> */}
-                <Route exact path="/home" render={(props) => {
+                <Route exact path="/" render={(props) => {
                     return <HomeScreen />
                 }} />
                 <Route path="/about" render={(props) => {
                     return <AboutScreen />
                 }} />
-                <Route path="/specs" render={(props) => {
+                {/* <Route path="/specs" render={(props) => {
                     return <SpecsScreen />
-                }} />
+                }} /> */}
                 <Route path="/contact" render={(props) => {
                     return <ContactScreen />
                 }} />

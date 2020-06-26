@@ -10,7 +10,7 @@ class NavigationBar extends Component{
                     <img src={newIcon} style={{position:'absolute', left:'1%', height:40, width:40}} />
                     <ul className="nav nav-pills" style={{float:'right  '}}>
                         <li className="nav-item" style={{color:'white'}}>
-                            <Link className="nav-link" style={styles.anchorStyle} to="/Home">Home</Link>
+                            <Link className="nav-link" style={styles.anchorStyle} to="/">Home</Link>
                         </li>
                         <li className="nav-item">
                             <Link className="nav-link" style={styles.anchorStyle} to="/about">About</Link>

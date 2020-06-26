@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Link, Route } from "react-router-dom" 
+import { Link } from "react-router-dom" 
 import styles from './style'
 import newIcon from '../../assets/EyeconTrans.png'
 class NavigationBar extends Component{

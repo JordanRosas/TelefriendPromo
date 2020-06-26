@@ -13,7 +13,7 @@ class AboutScreen extends Component{
                         <div style={{marginLeft:190, marginTop:120}}>
                             <img src={headshot} style={{height:600}}/>
                             <p style={{marginBottom:-2}}>Founder & CEO of TeleFriend</p>
-                            <p>Wendy</p>
+                            <p>Wendy M.</p>
                         </div>
                         <div style={{backgroundColor:'#f0f0f0', width:'50%', height:'100vh', marginLeft:'auto'}}>
                             <div style={{width:'80%', marginLeft:150, marginTop:180, lineHeight:1.9}}>

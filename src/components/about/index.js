@@ -16,7 +16,7 @@ class AboutScreen extends Component{
                             <p>Wendy M.</p>
                         </div>
                         <div style={{backgroundColor:'#f0f0f0', width:'50%', height:'100vh', marginLeft:'auto'}}>
-                            <div style={{width:'80%', marginLeft:150, marginTop:180, lineHeight:1.9}}>
+                            <div style={{width:'70%', marginLeft:150, marginTop:180, lineHeight:1.9}}>
                                 <div style={{display:'flex', flexDirection:'row'}}>
                                     <img src={icon} style={{marginLeft:110, height:80, width:80, marginTop:10}} />
                                     <p style={{fontSize:40, marginLeft:20, marginTop:10}}>Meet the creator</p>

@@ -11,11 +11,11 @@ class HomeScreen extends Component{
         return(
             <div style={{backgroundColor:'#f0f0f0', height:'100vh', width:'100%'}}>
                 <div style={{display:'flex', justifyContent:'center'}}>
-                    <div style={{backgroundColor:'#e8e8e8', width:'60%', height:250, display:'flex', justifyContent:"center", borderRadius:12, marginTop:'2%'}}>
-                        <img src={telefriendlogo} style={{width:'60%', marginTop:'2%'}} />
+                    <div style={{backgroundColor:'#e8e8e8', width:'50%', display:'flex', justifyContent:"center", borderRadius:12, marginTop:'2%'}}>
+                        <img src={telefriendlogo} style={{width:'50%', marginTop:'2%'}} />
                     </div>
                 </div>
-                <div style={{display:'flex', justifyContent:'center'}}>
+                <div style={{display:'flex', justifyContent:'center', marginTop:-40}}>
                     <img src={appdemo} style={{width:'60%'}}/>
                 </div>
             </div>

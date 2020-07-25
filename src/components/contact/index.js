@@ -42,9 +42,9 @@ class ContactScreen extends Component{
                         method="POST"
                         >
                         <input style={{marginTop:'10%', height:50, border:'none'}} type="text" name="_replyto" placeholder="Enter your email..." />
-                        <textarea style={{height:300, marginTop:'3%', border:'none'}} name="message"></textarea>
+                        <textarea style={{height:300, marginTop:'3%', border:'none', fontFamily:'Barlow'}} name="message"></textarea>
 
-                        <button style={{border:'none', backgroundColor: '#202138', color:'white', marginTop:'2%', height:50, borderRadius:5}} type="submit" placeholder="Message text...">Send</button>
+                        <button style={{border:'none', backgroundColor: '#202138', color:'white', marginTop:'2%', height:50, borderRadius:5, fontFamily:'Barlow'}} type="submit" placeholder="Message text...">Send</button>
                         </form>
                     </div>
                 </Mobile>

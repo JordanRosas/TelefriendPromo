@@ -66,6 +66,26 @@ class HomeScreen extends Component{
                             <img src={appdemo} style={{width:'99%', marginTop:'20%', marginLeft:10, marginTop:-20, padding:20}}/>
                         </div>
                     </div>
+                    <div style={{display:'flex', justifyContent:'center', marginTop:10}}>
+                        <div style={{ backgroundColor:'#1B1D32', width:'95%', borderRadius:12}}>
+                            <p style={{color:'white', marginLeft:10, fontFamily:"Barlow", marginTop:10}}>Create an account</p>
+                        </div>
+                    </div>
+                    <div style={{display:'flex', justifyContent:'center', marginTop:10}}>
+                        <div style={{ backgroundColor:'#1B1D32', width:'95%', borderRadius:12}}>
+                            <p style={{color:'white', marginLeft:10, fontFamily:"Barlow", marginTop:10}}>Talk with live Ambassadors</p>
+                        </div>
+                    </div>
+                    <div style={{display:'flex', justifyContent:'center', marginTop:10}}>
+                        <div style={{ backgroundColor:'#1B1D32', width:'95%', borderRadius:12}}>
+                            <p style={{color:'white', marginLeft:10, fontFamily:"Barlow", marginTop:10}}>Afforable</p>
+                        </div>
+                    </div>
+                    <div style={{display:'flex', justifyContent:'center', marginTop:10}}>
+                        <div style={{ backgroundColor:'#1B1D32', width:'95%', borderRadius:12}}>
+                            <p style={{color:'white', marginLeft:10, fontFamily:"Barlow", marginTop:10}}>Convenient</p>
+                        </div>
+                    </div>
                 </div>
             </Mobile>
             </div>

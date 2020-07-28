@@ -78,7 +78,7 @@ class HomeScreen extends Component{
                     </div>
                     <div style={{display:'flex', justifyContent:'center', marginTop:10}}>
                         <div style={{ backgroundColor:'#1B1D32', width:'95%', borderRadius:12}}>
-                            <p style={{color:'white', marginLeft:10, fontFamily:"Barlow", marginTop:10}}>Afforable</p>
+                            <p style={{color:'white', marginLeft:10, fontFamily:"Barlow", marginTop:10}}>Affordable</p>
                         </div>
                     </div>
                     <div style={{display:'flex', justifyContent:'center', marginTop:10}}>
